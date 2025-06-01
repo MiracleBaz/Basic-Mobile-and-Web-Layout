@@ -6,7 +6,8 @@ To design a basic mobile and web layout for an existing case study by applying G
 
 # Output:
 
-![Deepak S - 212224230053_uiux](https://github.com/user-attachments/assets/d0ce9ed8-99dd-49e1-b042-c2080418c4a9)
+![Screenshot 2025-06-01 181906](https://github.com/user-attachments/assets/df11fdf3-3cf4-46cc-8c70-7441c3a6addc)
+
 
 # Result:
 
